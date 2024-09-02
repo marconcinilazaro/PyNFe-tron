@@ -30,7 +30,7 @@ setuptools.setup(
         "pynfe": ["data/**/*.txt"],
     },
     install_requires=[
-        "pyopenssl,
+        "pyopenssl",
         "requests",
         "lxml",
         "signxml",
